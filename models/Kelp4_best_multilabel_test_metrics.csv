@@ -1,0 +1,2 @@
+model,micro_f1,macro_f1,weighted_f1,hamming_loss,subset_accuracy
+Tuned TF-IDF + OneVsRest Logistic Regression,0.7020785219399538,0.5036055297894774,0.7223502663487699,0.0940576011666059,0.33175355450236965

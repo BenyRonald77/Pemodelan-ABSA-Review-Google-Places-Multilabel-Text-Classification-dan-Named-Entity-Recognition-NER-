@@ -1,0 +1,71 @@
+text,true_labels,predicted_labels,is_exact_match
+Bakso enak dan nyaman tempatnya,"['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+"Enak baksonya mantap, bakal kesini lagi sihh","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']",True
+Menu variasi baksonya macam2x..joos gandos pokoknya musntaap 👍👍🤗,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Sop daging sapi +tetelan dagingnya alot,['PRODUCT_NEGATIVE'],['PRODUCT_NEGATIVE'],True
+"Rekomen, bakso paling enak di jogja🥹🫶🏻",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Makanannya enak dan tempatnya luas,"['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+"Baksonya enak banget, pelayanannya juga memuaskan. Pesan 5 menit langsung ready. Recomended parah","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']",True
+ga enak mie ayam kaya masih ada adonanya sama bakso nya jangan pernah kesini,['PRODUCT_NEGATIVE'],['PRODUCT_NEGATIVE'],True
+"bakso nya enak,tempat nya luas","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+"Tempatnya luas dan nyaman, pilihan menu baksonya komplit","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+"Menunya variatif dan enak, baksonya daging banget....",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Tempat nya enak ada tempat AC, bakso nya juara. Bakso komplit isinya macam². Es teler nya juga mantabb","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+Mir ayamnya yummy dengan potongan ayamnya yg besar,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Kamu datang waktu petang skitar jam 18... Ramai sekali.,['OUT_OF_TOPIC'],['OUT_OF_TOPIC'],True
+"Kelebihan 1. Rasa bakso yang lezat dan khas. 2. Tekstur bakso yang empuk dan kenyal. 3. Porsi yang cukup besar. 4. Harga yang terjangkau (sekitar Rp 10.000 - Rp 20.000). 5. Lokasi yang strategis dan mudah dijangkau.  Ulasan Bakso Pajero adalah salah satu tempat makan bakso terbaik di Yogyakarta! Rasa baksonya khas dan lezat, dengan tekstur yang empuk. Harga yang terjangkau dan porsi yang cukup besar membuatnya menjadi pilihan yang tepat untuk makan siang atau malam. secara keseluruhan Bakso Pajero sangat direkomendasikan.","['PRODUCT_POSITIVE', 'PRICE_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE', 'PLACE_POSITIVE']",True
+enak bangetttt🥺🥺 apalagi kuah mercon nya best!,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Bakso nya mantap dan nikmat,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+langganan makan dsni suka baksonya,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya mantap, kuahnya ngaldu bgt.",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Nyobain makan mie ayam disini, untuk mie ayam tekstur mie lembut, rasanya gurih enakk. Baksonya juga enak tekstur lembut, kuahnya gurih enak, banyak varian pilihan menu bakso dan mie ayam. kesini saat makan siang dan ramai untuk makanan overall enak",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"aku sudah makan disini berkali kali kali kali. temen temenku juga suka bgt makan disini. pangsit goreng juga enak. bakso yg kuah mercon, beneran mantab pol.",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Semua menunya enak, es teler nya segar👍🏻",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Baksonya berkalduu bangett dan wenakm poll,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Bakso campur dan bakso gorengnya enak ada 2 kuah ...original dan pedas,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Udah dua kali beli di siniii. Baksonya enakkk dan kuangnya wangi bangettt😭😭😭,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya enak porsinya ga tanggung-tanggung, mantab sekalii👍👍👍",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Bakso uratnya enak, bakso goreng nya juga. Pas!",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Rasa baksonya mantab enak, tempatnya bersih luas","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+Top markotop 😍 Puass Baksonya enak krasa bnget dagingnya Kuah pedas nyuss🤤,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya enak murah juga, pilihan menu nya banyak, rekomen buat yang lagi liburan ke Jogja pengen makan bakso🥰",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Jenis Makanan Bakso nya komplit Enak enak harga pas dikantong Terfavorite Deh,"['PRODUCT_POSITIVE', 'PRICE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']",True
+"Makananya enak bangettttttt, harganya terjangkau Dapat es krim juga","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']",True
+"Bakso dan esnya enak, rekomended",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Pertama kali makan disini, bolak balik cm lewat, penasaran krn rame. Makanan enak dan harga terjangkau","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']",True
+ENAK BINGITTT KUAH MERCONNYA PEDESS POLL MANTAP🤩🤩🤩🤩,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya enak porsinya ga tanggung-tanggung, mantab sekalii👍👍👍",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya enak, empuk, kuahnya gurih, tempatnya bersih serta parkiran nya lapang","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+baksonya mantap josh parah ga balalan nyesel dahh,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Semuanya worth bakso mozanya enak banget,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+enak banget bakso nya kerasaa bgt kuahnya juga seger panas panas mantap,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Bakso keju dan bakso bakarnya enak banget,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"baksonya dan sopnya the best, enak, lembut banget, nampollllll",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"bakso termantul yg pernas saya coba, kuahnya gurih baksonya kenyal..",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+worth it to buy dan bakso enak recommended👍🏻,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Bakso nya pas gurihhh, sambalnya sangat pedas asli dari cabai. Es nya juga variasi, saya nyoba es buahnya sangat enak manisnya pass di lidah. Saya yakin pasti akan kesini lagi","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']",True
+Tersedia menu bakso bakar iga jumbo yang porsi dna rasanya oke 👌,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Rasa enak, bakso uratnyaa enak poll, the bestt😍",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Udah dua kali beli di siniii. Baksonya enakkk dan kuangnya wangi bangettt😭😭😭,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Pertama kali makan disini, bolak balik cm lewat, penasaran krn rame. Makanan enak dan harga terjangkau","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']",True
+balsonya josjiss apalagi urat dan kuah merconnyaa,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Baksonya enak-enak dan mantap.. Tempatnya juga kids friendly banget 👍🏼,"['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+"Bakso yang paling di rekomendasiin kalo ke jogja, krna rasanya emg se nagih ituuu....",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Setiap kali aku kesini kuah mercon selalu habis padahal di sini kuah paling enak kuah mercon, kalau kuah biasa disini mah kurang enak agak hambar, pokoknya kalau gak ada kuah mercon mending gak usah","['PRODUCT_POSITIVE', 'PRODUCT_NEGATIVE']","['PRODUCT_POSITIVE', 'PRODUCT_NEGATIVE']",True
+"Baksonya enak, apalagi balso urat empuk dan kerasa banget bumbunga. Tempatnya cozy, ada ruangan yang ber AC juga","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+Bakso terenak di jogja sejauh ini 😆😆,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Baksonya macem2 sih dan enak banget! Wajib coba ya!,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Makanan nya enak banget bakso nya juga besar2, tempat nya bersih nyaman saya suka banget🤩🤩","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PLACE_POSITIVE']",True
+Bakso nya enak dan mantapzz. Rasa nya gak ngecewain. Pecinta bakso wajib ke sini..,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"ENAK BANGET apalagi versi yg pedasss, semoga sukses","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']","['PRODUCT_POSITIVE', 'OUT_OF_TOPIC']",True
+Rekomend bgt buat bakso bakar saus mentai nya tul mantul bingits,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Makanan enak poll tapi tempat kurang,"['PRODUCT_POSITIVE', 'PLACE_NEGATIVE']","['PRODUCT_POSITIVE', 'PLACE_NEGATIVE']",True
+Makanan nya sangat enak mantaappp,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Review jujur Pertama kali pesan gofood Rasanya enak sekali, sesuai ekspektasi . Bakso kenyal sekali, rasa kuah original terasa banget di lidah . Hanya mie itu agak lembek . Terima kasih . Semangat",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Coba menu bakso kuah mercon, beneran nendang banget pedesnya 🥵",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Mantappp aneka baksonya. Esnya juga seger seger. Wajib coba sih kalau pas sekitaran kampus UNY.,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"Baksonya enak, tempatnya nyaman, harga nya cocok sesuai rasa. Mantap pokonya 👍","['PRODUCT_POSITIVE', 'PRICE_POSITIVE', 'PLACE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE', 'PLACE_POSITIVE']",True
+Pilihan menunya banyak banget. Harga murah. Baksonya enak dan kuahnya panas,"['PRODUCT_POSITIVE', 'PRICE_POSITIVE']","['PRODUCT_POSITIVE', 'PRICE_POSITIVE']",True
+Baksonya enak. The best in Jogja.,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+"bakso termantul yg pernas saya coba, kuahnya gurih baksonya kenyal..",['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True
+Baksonyaaa enakkk bangettt apa lagi yang pake kuahh mercon emmhh enak bangettttt  Bakso pajero rekomended bangett lohhhhh,['PRODUCT_POSITIVE'],['PRODUCT_POSITIVE'],True

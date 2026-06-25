@@ -1,0 +1,1634 @@
+token,true_tag,pred_tag,error_type
+",",O,I-PRODUCT,Entity vs O Error
+😋,O,I-PROMOTION,Entity vs O Error
+😋,O,I-PROMOTION,Entity vs O Error
+😋,O,I-PROMOTION,Entity vs O Error
+😋,O,I-PROMOTION,Entity vs O Error
+😋,O,I-PROMOTION,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+selain,B-PRODUCT,I-PLACE,Label Error
+itu,I-PRODUCT,I-PLACE,Label Error
+banyak,I-PRODUCT,I-PLACE,Label Error
+",",I-PRODUCT,O,Entity vs O Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+sangat,I-PROMOTION,O,Entity vs O Error
+baik,I-PROMOTION,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+dapat,I-PRODUCT,O,Entity vs O Error
+rekomen,I-PRODUCT,O,Entity vs O Error
+dari,I-PRODUCT,O,Entity vs O Error
+teman,I-PRODUCT,O,Entity vs O Error
+juga,I-PRODUCT,O,Entity vs O Error
+mantabb,I-PRODUCT,O,Entity vs O Error
+Oke,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Suasananya,B-PLACE,I-PLACE,Boundary Error
+oke,I-PLACE,I-PRODUCT,Label Error
+ngga,I-PLACE,I-PRODUCT,Label Error
+tempat,B-PLACE,I-PLACE,Boundary Error
+service,B-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+menu,B-PRODUCT,O,Entity vs O Error
+pedes,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+hanya,B-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+.,B-PRODUCT,I-PRODUCT,Boundary Error
+sejam,O,I-PROMOTION,Entity vs O Error
+Bukan,O,I-PROMOTION,Entity vs O Error
+masalah,O,I-PROMOTION,Entity vs O Error
+estimasi,O,I-PROMOTION,Entity vs O Error
+juga,O,I-PROMOTION,Entity vs O Error
+tapi,O,I-PROMOTION,Entity vs O Error
+keduluan,O,I-PROMOTION,Entity vs O Error
+nyampe,O,I-PROMOTION,Entity vs O Error
+ngomongnya,O,I-PROMOTION,Entity vs O Error
+Tcih,O,I-PROMOTION,Entity vs O Error
+Salah,O,I-PRODUCT,Entity vs O Error
+satu,O,I-PRODUCT,Entity vs O Error
+resto,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+yang,O,I-PRODUCT,Entity vs O Error
+terkenal,O,I-PRODUCT,Entity vs O Error
+di,O,I-PRODUCT,Entity vs O Error
+Yogyakarta,O,I-PRODUCT,Entity vs O Error
+Banyak,O,I-PRODUCT,Entity vs O Error
+pilihan,O,I-PRODUCT,Entity vs O Error
+menu,O,I-PRODUCT,Entity vs O Error
+makanan,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+berbagai,O,I-PRODUCT,Entity vs O Error
+macam,O,I-PRODUCT,Entity vs O Error
+menu,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+mie,O,I-PRODUCT,Entity vs O Error
+ayam,O,I-PRODUCT,Entity vs O Error
+.,O,I-PRODUCT,Entity vs O Error
+Pengunjung,O,I-PRODUCT,Entity vs O Error
+datang,O,I-PRODUCT,Entity vs O Error
+langsung,O,I-PRODUCT,Entity vs O Error
+ambil,O,I-PRODUCT,Entity vs O Error
+buku,O,I-PRODUCT,Entity vs O Error
+menu,O,I-PRODUCT,Entity vs O Error
++,O,I-PRODUCT,Entity vs O Error
+kertas,O,I-PRODUCT,Entity vs O Error
+pilihan,O,I-PRODUCT,Entity vs O Error
+menu,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+kemudian,O,I-PRODUCT,Entity vs O Error
+cari,O,I-PRODUCT,Entity vs O Error
+saya,O,I-PRODUCT,Entity vs O Error
+pilih,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+tenis,O,I-PRODUCT,Entity vs O Error
+jumbo,O,I-PRODUCT,Entity vs O Error
+terdiri,O,I-PRODUCT,Entity vs O Error
+dari,O,I-PRODUCT,Entity vs O Error
+1,O,I-PRODUCT,Entity vs O Error
+buah,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+tenis,O,I-PRODUCT,Entity vs O Error
+besar,O,I-PRODUCT,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+toping,O,I-PRODUCT,Entity vs O Error
+tempat,O,I-PLACE,Entity vs O Error
+makan,O,I-PLACE,Entity vs O Error
+yang,O,I-PRODUCT,Entity vs O Error
+sangat,O,I-PRODUCT,Entity vs O Error
+enak,O,I-PRODUCT,Entity vs O Error
+rekomem,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+banyak,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+harganya,B-PRICE,B-PLACE,Label Error
+juga,I-PRICE,O,Entity vs O Error
+lokasi,B-PLACE,O,Entity vs O Error
+dengan,I-PLACE,O,Entity vs O Error
+kawasan,I-PLACE,O,Entity vs O Error
+UNY,I-PLACE,O,Entity vs O Error
+tempat,B-PLACE,I-PLACE,Boundary Error
+dan,O,I-PRODUCT,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+cocok,B-PRODUCT,I-PRODUCT,Boundary Error
+Makanan,B-PRODUCT,I-PRODUCT,Boundary Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+oke,I-PROMOTION,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+Rekomen,B-PROMOTION,I-PLACE,Label Error
+deh,I-PROMOTION,I-PLACE,Label Error
+kesini,I-PROMOTION,I-PLACE,Label Error
+.,I-PRODUCT,O,Entity vs O Error
+makanannya,B-PRODUCT,O,Entity vs O Error
+UNK,B-PLACE,I-PLACE,Boundary Error
+Pelayanan,B-PROMOTION,O,Entity vs O Error
+ok,I-PROMOTION,O,Entity vs O Error
+Rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+..,O,I-PRODUCT,Entity vs O Error
+Klo,O,I-PRODUCT,Entity vs O Error
+mau,O,I-PRODUCT,Entity vs O Error
+beli,O,I-PRODUCT,Entity vs O Error
+juga,O,I-PRODUCT,Entity vs O Error
+ok,O,I-PRODUCT,Entity vs O Error
+suka,O,I-PRODUCT,Entity vs O Error
+UNK,B-PRODUCT,I-PRODUCT,Boundary Error
+..,O,I-PRODUCT,Entity vs O Error
+ada,B-PLACE,O,Entity vs O Error
+juga,I-PLACE,I-PRODUCT,Label Error
+.,I-PRODUCT,O,Entity vs O Error
+Cobain,I-PRODUCT,O,Entity vs O Error
+deh,I-PRODUCT,O,Entity vs O Error
+...,B-PRODUCT,O,Entity vs O Error
+krn,I-PRODUCT,O,Entity vs O Error
+menurut,I-PRODUCT,O,Entity vs O Error
+gw,I-PRODUCT,O,Entity vs O Error
+nih,I-PRODUCT,O,Entity vs O Error
+kasih,I-PRODUCT,O,Entity vs O Error
+👍,I-PRODUCT,O,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+UNK,I-PRODUCT,B-PRODUCT,Boundary Error
+UNK,O,I-PRODUCT,Entity vs O Error
+makan,O,I-PRODUCT,Entity vs O Error
+bikin,O,I-PRODUCT,Entity vs O Error
+eneg,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+banyak,B-PRODUCT,I-PRODUCT,Boundary Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+cuma,O,I-PRODUCT,Entity vs O Error
+menurutku,O,I-PRODUCT,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+tapi,O,I-PRODUCT,Entity vs O Error
+dari,O,I-PRODUCT,Entity vs O Error
+rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+pelayanannya,B-PROMOTION,O,Entity vs O Error
+juga,I-PROMOTION,O,Entity vs O Error
+memuaskan,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Pesan,B-PROMOTION,O,Entity vs O Error
+5,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+langsung,I-PROMOTION,O,Entity vs O Error
+ready,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Recomended,B-PROMOTION,I-PROMOTION,Boundary Error
+servisnya,B-PROMOTION,O,Entity vs O Error
+oke,I-PROMOTION,O,Entity vs O Error
+banget,I-PROMOTION,O,Entity vs O Error
+baru,B-PROMOTION,O,Entity vs O Error
+dateng,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+mba,I-PROMOTION,O,Entity vs O Error
+pelayannya,I-PROMOTION,O,Entity vs O Error
+ramah,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+langsung,I-PROMOTION,O,Entity vs O Error
+sigap,I-PROMOTION,O,Entity vs O Error
+cariin,I-PROMOTION,O,Entity vs O Error
+tempat,I-PROMOTION,O,Entity vs O Error
+duduk,I-PROMOTION,O,Entity vs O Error
+Rekomen,B-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+dan,O,I-PRODUCT,Entity vs O Error
+dan,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+Recomended,O,I-PROMOTION,Entity vs O Error
+parah,O,I-PROMOTION,Entity vs O Error
+ga,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+dan,O,I-PLACE,Entity vs O Error
+harga,B-PRICE,I-PLACE,Label Error
+cukup,I-PRICE,I-PLACE,Label Error
+OK,I-PRICE,I-PLACE,Label Error
+.,I-PRICE,O,Entity vs O Error
+Saya,I-PRICE,O,Entity vs O Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+✅,B-PLACE,O,Entity vs O Error
+Cari,I-PLACE,B-PLACE,Boundary Error
+Layanan,O,I-PLACE,Entity vs O Error
+pegawai,O,I-PLACE,Entity vs O Error
+cekatan,O,I-PLACE,Entity vs O Error
+bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+✅,I-PRODUCT,O,Entity vs O Error
+✅,I-PRODUCT,O,Entity vs O Error
+Sambal,I-PRODUCT,O,Entity vs O Error
+uleknya,I-PRODUCT,O,Entity vs O Error
+nyossss,I-PRODUCT,O,Entity vs O Error
+ ,I-PRODUCT,O,Entity vs O Error
+Saya,I-PRODUCT,O,Entity vs O Error
+coba,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+urat,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+mercon,I-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+sumsum,I-PRODUCT,O,Entity vs O Error
+:,I-PRODUCT,O,Entity vs O Error
+☑,B-PRICE,O,Entity vs O Error
+️Harga,I-PRICE,O,Entity vs O Error
+standar,I-PRICE,O,Entity vs O Error
+kota,I-PRICE,O,Entity vs O Error
+besar,I-PRICE,O,Entity vs O Error
+☑,B-PRODUCT,O,Entity vs O Error
+️Rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+kurang,I-PRODUCT,O,Entity vs O Error
+☑,B-PRODUCT,O,Entity vs O Error
+Tiap,B-PROMOTION,O,Entity vs O Error
+ke,I-PROMOTION,O,Entity vs O Error
+jogja,I-PROMOTION,O,Entity vs O Error
+wajib,I-PROMOTION,O,Entity vs O Error
+kesini,I-PROMOTION,O,Entity vs O Error
+kalau,I-PRODUCT,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+Mi,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+rasanya,B-PRODUCT,I-PRODUCT,Boundary Error
+Bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+bgt,I-PRODUCT,B-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+paling,B-PRODUCT,I-PRODUCT,Boundary Error
+parkir,B-PLACE,I-PLACE,Boundary Error
+😄,O,I-PLACE,Entity vs O Error
+UNK,O,B-PRODUCT,Entity vs O Error
+Rasanya,O,B-PRODUCT,Entity vs O Error
+enak,O,I-PRODUCT,Entity vs O Error
+sekali,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+sesuai,O,I-PRODUCT,Entity vs O Error
+ekspektasi,O,I-PRODUCT,Entity vs O Error
+.,O,I-PRODUCT,Entity vs O Error
+rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+Hanya,B-PRODUCT,I-PRODUCT,Boundary Error
+Terima,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+baksonya,B-PRODUCT,I-PRODUCT,Boundary Error
+....,O,I-PRODUCT,Entity vs O Error
+Tempat,B-PLACE,I-PLACE,Boundary Error
+enak,I-PLACE,I-PRODUCT,Label Error
+",",O,I-PLACE,Entity vs O Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+Bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+",",B-PLACE,I-PLACE,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Tempat,B-PLACE,I-PLACE,Boundary Error
+maupun,I-PLACE,I-PRODUCT,Label Error
+.,I-PLACE,O,Entity vs O Error
+ini,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+belum,I-PRODUCT,O,Entity vs O Error
+harus,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+juga,O,I-PRODUCT,Entity vs O Error
+oke,O,I-PRODUCT,Entity vs O Error
+banget,O,I-PRODUCT,Entity vs O Error
+nyobain,B-PROMOTION,O,Entity vs O Error
+Bakso,I-PROMOTION,O,Entity vs O Error
+Pa'jero,I-PROMOTION,O,Entity vs O Error
+yg,I-PROMOTION,O,Entity vs O Error
+fyp,I-PROMOTION,O,Entity vs O Error
+..,I-PROMOTION,O,Entity vs O Error
+1,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+cuma,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Tapi,B-PRODUCT,I-PRODUCT,Boundary Error
+pooollll,I-PRODUCT,O,Entity vs O Error
+..,I-PRODUCT,O,Entity vs O Error
+setiap,B-PRODUCT,O,Entity vs O Error
+ada,I-PRODUCT,O,Entity vs O Error
+kerabat,I-PRODUCT,O,Entity vs O Error
+dteng,I-PRODUCT,O,Entity vs O Error
+ke,I-PRODUCT,O,Entity vs O Error
+jogja,I-PRODUCT,O,Entity vs O Error
+pasti,I-PRODUCT,O,Entity vs O Error
+jdi,I-PRODUCT,O,Entity vs O Error
+salah,I-PRODUCT,O,Entity vs O Error
+satu,I-PRODUCT,O,Entity vs O Error
+t4,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+yg,I-PRODUCT,O,Entity vs O Error
+harus,I-PRODUCT,O,Entity vs O Error
+dikunjungi,I-PRODUCT,O,Entity vs O Error
+customer,O,I-PROMOTION,Entity vs O Error
+lain,O,I-PROMOTION,Entity vs O Error
+juga,O,I-PROMOTION,Entity vs O Error
+diperhatikan,O,I-PROMOTION,Entity vs O Error
+sedikit,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+",",O,I-PLACE,Entity vs O Error
+waktu,B-PROMOTION,I-PLACE,Label Error
+tunggunya,I-PROMOTION,O,Entity vs O Error
+sekitar,I-PROMOTION,O,Entity vs O Error
+10,I-PROMOTION,O,Entity vs O Error
+-,I-PROMOTION,O,Entity vs O Error
+15,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+di,I-PROMOTION,O,Entity vs O Error
+peak,I-PROMOTION,O,Entity vs O Error
+hour,I-PROMOTION,O,Entity vs O Error
+Pesan,O,B-PRODUCT,Entity vs O Error
+bakso,O,B-PRODUCT,Entity vs O Error
+kuah,O,I-PRODUCT,Entity vs O Error
+sama,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+bakar,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+terlalu,O,I-PRODUCT,Entity vs O Error
+jg,O,I-PRODUCT,Entity vs O Error
+ga,O,I-PRODUCT,Entity vs O Error
+panas,O,I-PRODUCT,Entity vs O Error
+tuh,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+bakarnya,O,I-PRODUCT,Entity vs O Error
+gatau,O,I-PRODUCT,Entity vs O Error
+bakarnya,O,I-PRODUCT,Entity vs O Error
+pake,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+apaan,O,I-PRODUCT,Entity vs O Error
+bisa,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+itu,O,I-PRODUCT,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PLACE,Entity vs O Error
+tapi,O,I-PLACE,Entity vs O Error
+pelayanannya,B-PROMOTION,O,Entity vs O Error
+kurang,I-PROMOTION,O,Entity vs O Error
+menurut,I-PROMOTION,O,Entity vs O Error
+saya,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+karena,I-PROMOTION,O,Entity vs O Error
+saya,I-PROMOTION,O,Entity vs O Error
+pesan,I-PROMOTION,O,Entity vs O Error
+duluan,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+tp,I-PROMOTION,O,Entity vs O Error
+yang,I-PROMOTION,O,Entity vs O Error
+datang,I-PROMOTION,O,Entity vs O Error
+belakangan,I-PROMOTION,O,Entity vs O Error
+malah,I-PROMOTION,O,Entity vs O Error
+dilayaninya,I-PROMOTION,O,Entity vs O Error
+duluan,I-PROMOTION,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+rasanya,B-PRODUCT,I-PRODUCT,Boundary Error
+hanya,O,I-PRODUCT,Entity vs O Error
+sop,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PLACE,Entity vs O Error
+parkir,B-PLACE,I-PLACE,Boundary Error
+",",O,I-PLACE,Entity vs O Error
+ada,B-PLACE,I-PLACE,Boundary Error
+",",O,I-PLACE,Entity vs O Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+baik,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+Iga,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+empuk,B-PRODUCT,I-PRODUCT,Boundary Error
+Sayangnya,B-PRODUCT,O,Entity vs O Error
+paketnya,I-PRODUCT,O,Entity vs O Error
+habis,I-PRODUCT,O,Entity vs O Error
+semua,I-PRODUCT,O,Entity vs O Error
+padahal,I-PRODUCT,O,Entity vs O Error
+jam,I-PRODUCT,O,Entity vs O Error
+12,I-PRODUCT,O,Entity vs O Error
+pas,I-PRODUCT,O,Entity vs O Error
+saat,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+siang,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Untuk,B-PRODUCT,B-PRICE,Label Error
+harga,I-PRODUCT,I-PRICE,Label Error
+segitu,I-PRODUCT,I-PRICE,Label Error
+",",I-PRODUCT,O,Entity vs O Error
+dari,I-PRODUCT,B-PRODUCT,Boundary Error
+segi,I-PRODUCT,B-PRODUCT,Boundary Error
+baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+lebih,I-PRODUCT,O,Entity vs O Error
+wah,I-PRODUCT,I-PRICE,Label Error
+lagi,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Jika,B-PROMOTION,I-PRICE,Label Error
+harga,I-PROMOTION,I-PRICE,Label Error
+segitu,I-PROMOTION,I-PRICE,Label Error
+dengan,I-PROMOTION,I-PRICE,Label Error
+rasa,I-PROMOTION,B-PRODUCT,Label Error
+standar,I-PROMOTION,I-PRICE,Label Error
+",",I-PROMOTION,O,Entity vs O Error
+harusnya,I-PROMOTION,I-PRICE,Label Error
+bisa,I-PROMOTION,I-PRICE,Label Error
+dilebihkan,I-PROMOTION,I-PRICE,Label Error
+di,I-PROMOTION,O,Entity vs O Error
+bagian,I-PROMOTION,I-PLACE,Label Error
+servicenya,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Tadi,B-PROMOTION,O,Entity vs O Error
+saya,I-PROMOTION,O,Entity vs O Error
+order,I-PROMOTION,I-PLACE,Label Error
+hanya,I-PROMOTION,O,Entity vs O Error
+2,I-PROMOTION,O,Entity vs O Error
+bakso,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+1,I-PROMOTION,O,Entity vs O Error
+side,I-PROMOTION,I-PLACE,Label Error
+dish,I-PROMOTION,I-PLACE,Label Error
+",",I-PROMOTION,O,Entity vs O Error
+tapi,I-PROMOTION,O,Entity vs O Error
+2,I-PROMOTION,O,Entity vs O Error
+-,I-PROMOTION,O,Entity vs O Error
+3,I-PROMOTION,O,Entity vs O Error
+customer,I-PROMOTION,O,Entity vs O Error
+yang,I-PROMOTION,O,Entity vs O Error
+isinya,I-PROMOTION,O,Entity vs O Error
+rombongan,I-PROMOTION,O,Entity vs O Error
+sebagong,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Udah,B-PROMOTION,O,Entity vs O Error
+diprotes,I-PROMOTION,O,Entity vs O Error
+sekali,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+ditunggu,I-PROMOTION,O,Entity vs O Error
+10,I-PROMOTION,O,Entity vs O Error
+-,I-PROMOTION,O,Entity vs O Error
+15,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+tapi,I-PROMOTION,O,Entity vs O Error
+tak,I-PROMOTION,O,Entity vs O Error
+kunjung,I-PROMOTION,O,Entity vs O Error
+datang,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+dia,I-PROMOTION,O,Entity vs O Error
+malah,I-PROMOTION,O,Entity vs O Error
+datang,I-PROMOTION,O,Entity vs O Error
+ke,I-PROMOTION,O,Entity vs O Error
+customer,I-PROMOTION,O,Entity vs O Error
+yang,I-PROMOTION,O,Entity vs O Error
+lain,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Ramai,O,I-PRODUCT,Entity vs O Error
+sekali,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+lumayan,B-PLACE,I-PRODUCT,Label Error
+ramai,I-PLACE,I-PRODUCT,Label Error
+Kelebihan,O,B-PRODUCT,Entity vs O Error
+1,O,I-PRODUCT,Entity vs O Error
+Tekstur,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Porsi,B-PRODUCT,I-PRODUCT,Boundary Error
+Harga,B-PRICE,I-PRICE,Boundary Error
+-,I-PRICE,I-PLACE,Label Error
+Rp,I-PRICE,I-PLACE,Label Error
+20.000,I-PRICE,I-PLACE,Label Error
+),I-PRICE,I-PLACE,Label Error
+5,O,I-PLACE,Entity vs O Error
+Lokasi,B-PLACE,I-PLACE,Boundary Error
+.,O,I-PLACE,Entity vs O Error
+Ulasan,O,B-PRODUCT,Entity vs O Error
+Bakso,O,B-PRODUCT,Entity vs O Error
+Pajero,B-PRODUCT,I-PRODUCT,Boundary Error
+tempat,I-PRODUCT,I-PLACE,Label Error
+!,O,I-PRODUCT,Entity vs O Error
+Rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+Harga,B-PRICE,I-PRICE,Boundary Error
+porsi,B-PRODUCT,I-PRICE,Label Error
+yang,I-PRODUCT,I-PRICE,Label Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+tetapi,O,I-PRODUCT,Entity vs O Error
+es,B-PRODUCT,I-PRODUCT,Boundary Error
+tapi,O,I-PRODUCT,Entity vs O Error
+semua,B-PRODUCT,I-PRODUCT,Boundary Error
+Toilet,B-PLACE,I-PLACE,Boundary Error
+..,B-PLACE,I-PLACE,Boundary Error
+...,O,I-PLACE,Entity vs O Error
+dan,O,I-PLACE,Entity vs O Error
+harus,O,I-PLACE,Entity vs O Error
+copot,O,I-PLACE,Entity vs O Error
+alas,O,I-PLACE,Entity vs O Error
+kaki,O,I-PLACE,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+Yang,O,I-PLACE,Entity vs O Error
+pakai,O,I-PLACE,Entity vs O Error
+sepatu,O,I-PLACE,Entity vs O Error
+repot,O,I-PLACE,Entity vs O Error
+harus,O,I-PLACE,Entity vs O Error
+copot2,O,I-PLACE,Entity vs O Error
+...,O,I-PLACE,Entity vs O Error
+cepat,I-PRODUCT,O,Entity vs O Error
+datang,I-PRODUCT,O,Entity vs O Error
+harganya,I-PRODUCT,I-PRICE,Label Error
+nyobaiin,O,B-PRODUCT,Entity vs O Error
+es,O,I-PRODUCT,Entity vs O Error
+teler,O,I-PRODUCT,Entity vs O Error
++,O,I-PRODUCT,Entity vs O Error
+es,O,I-PRODUCT,Entity vs O Error
+creamnya,O,I-PRODUCT,Entity vs O Error
+overall,O,I-PRODUCT,Entity vs O Error
+langganan,B-PRODUCT,O,Entity vs O Error
+UNK,B-PLACE,I-PLACE,Boundary Error
+",",I-PLACE,O,Entity vs O Error
+yang,I-PLACE,O,Entity vs O Error
+pulang,I-PLACE,O,Entity vs O Error
+pasti,I-PLACE,O,Entity vs O Error
+lgsg,I-PLACE,O,Entity vs O Error
+ada,I-PLACE,O,Entity vs O Error
+yg,I-PLACE,O,Entity vs O Error
+datang,I-PLACE,O,Entity vs O Error
+lagi,I-PLACE,O,Entity vs O Error
+",",I-PLACE,O,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+UNK,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+tp,B-PRODUCT,O,Entity vs O Error
+menurutku,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+Pesen,I-PRODUCT,O,Entity vs O Error
+jeruk,I-PRODUCT,O,Entity vs O Error
+hangat,I-PRODUCT,O,Entity vs O Error
+juga,I-PRODUCT,O,Entity vs O Error
+agak,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+Parkiran,B-PLACE,O,Entity vs O Error
+UNK,I-PLACE,O,Entity vs O Error
+rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+dan,I-PRODUCT,O,Entity vs O Error
+harga,I-PRODUCT,I-PRICE,Label Error
+tidak,I-PRODUCT,O,Entity vs O Error
+berubah,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+mantap,I-PRODUCT,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+UNK,I-PRODUCT,B-PRODUCT,Boundary Error
+sampai,B-PRODUCT,O,Entity vs O Error
+lupa,I-PRODUCT,O,Entity vs O Error
+kalau,I-PRODUCT,O,Entity vs O Error
+sudah,I-PRODUCT,O,Entity vs O Error
+habis,I-PRODUCT,O,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+yang,O,I-PRODUCT,Entity vs O Error
+lengkap,O,I-PRODUCT,Entity vs O Error
+👍,O,I-PRODUCT,Entity vs O Error
+🏻,O,I-PRODUCT,Entity vs O Error
+jujur,B-PRODUCT,O,Entity vs O Error
+ga,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+uda,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+uda,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+bgt,I-PRODUCT,O,Entity vs O Error
+UNK,B-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+15,I-PRODUCT,O,Entity vs O Error
+-,I-PRODUCT,O,Entity vs O Error
+30,I-PRODUCT,O,Entity vs O Error
+K,I-PRODUCT,O,Entity vs O Error
+ ,I-PRODUCT,O,Entity vs O Error
+buat,I-PRODUCT,O,Entity vs O Error
+rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+tapi,B-PRODUCT,I-PRODUCT,Boundary Error
+Nyobain,B-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+disini,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+Baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+saat,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+siang,I-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+ramai,I-PRODUCT,O,Entity vs O Error
+untuk,I-PRODUCT,O,Entity vs O Error
+makanan,I-PRODUCT,B-PRODUCT,Boundary Error
+aku,B-PRODUCT,I-PRODUCT,Boundary Error
+sudah,I-PRODUCT,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+es,B-PRODUCT,I-PRODUCT,Boundary Error
+Pesan,B-PRICE,I-PRODUCT,Label Error
+yg,I-PRICE,I-PRODUCT,Label Error
+paling,I-PRICE,I-PRODUCT,Label Error
+favorite,I-PRICE,I-PRODUCT,Label Error
+",",I-PRICE,O,Entity vs O Error
+tp,I-PRICE,O,Entity vs O Error
+ga,I-PRICE,I-PRODUCT,Label Error
+.,I-PRICE,O,Entity vs O Error
+Rasa,I-PRICE,B-PRODUCT,Label Error
+juga,I-PRICE,I-PRODUCT,Label Error
+B,I-PRICE,I-PRODUCT,Label Error
+aja,I-PRICE,I-PRODUCT,Label Error
+.,I-PRICE,I-PRODUCT,Label Error
+baksonya,B-PRODUCT,I-PRODUCT,Boundary Error
+uratnya,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+tapi,O,I-PRODUCT,Entity vs O Error
+overall,B-PRODUCT,I-PRODUCT,Boundary Error
+udah,O,I-PRODUCT,Entity vs O Error
+berkali-kali,O,I-PRODUCT,Entity vs O Error
+ngajak,O,I-PRODUCT,Entity vs O Error
+temen,O,I-PRODUCT,Entity vs O Error
+/,O,I-PRODUCT,Entity vs O Error
+keluarga,O,I-PRODUCT,Entity vs O Error
+kesini,O,I-PRODUCT,Entity vs O Error
+sama,O,I-PRODUCT,Entity vs O Error
+yg,O,I-PRODUCT,Entity vs O Error
+colombo,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+ajak,B-PROMOTION,I-PRODUCT,Label Error
+keluarga,I-PROMOTION,I-PRODUCT,Label Error
+biar,I-PROMOTION,I-PRODUCT,Label Error
+bisa,I-PROMOTION,I-PRODUCT,Label Error
+ikit,I-PROMOTION,I-PRODUCT,Label Error
+rasain,I-PROMOTION,I-PRODUCT,Label Error
+superr,I-PRODUCT,O,Entity vs O Error
+🤤,I-PRODUCT,O,Entity vs O Error
+❤,I-PRODUCT,O,Entity vs O Error
+️,I-PRODUCT,O,Entity vs O Error
+nyaman,O,I-PLACE,Entity vs O Error
+dan,B-PRODUCT,I-PRODUCT,Boundary Error
+...,O,I-PRODUCT,Entity vs O Error
+original,B-PRODUCT,I-PRODUCT,Boundary Error
+kuliah,I-PRODUCT,O,Entity vs O Error
+dulu,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+andalan,O,I-PRODUCT,Entity vs O Error
+pegawai,B-PROMOTION,O,Entity vs O Error
+nya,I-PROMOTION,I-PRODUCT,Label Error
+ramah,I-PROMOTION,O,Entity vs O Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+Udah,B-PRODUCT,O,Entity vs O Error
+dua,I-PRODUCT,O,Entity vs O Error
+di,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+aja,I-PRODUCT,O,Entity vs O Error
+",",B-PROMOTION,O,Entity vs O Error
+pelayanan,I-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+buat,B-PROMOTION,O,Entity vs O Error
+kebersihan,I-PROMOTION,O,Entity vs O Error
+perlu,I-PROMOTION,O,Entity vs O Error
+di,I-PROMOTION,O,Entity vs O Error
+tingkatkan,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+ya,I-PROMOTION,O,Entity vs O Error
+kak🫡,I-PROMOTION,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+mantab,B-PRODUCT,I-PRODUCT,Boundary Error
+Alhamdulillah,B-PRODUCT,O,Entity vs O Error
+rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+harapan,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+cocok,B-PLACE,I-PLACE,Boundary Error
+sama,I-PLACE,O,Entity vs O Error
+Pesannya,B-PRODUCT,O,Entity vs O Error
+menu,I-PRODUCT,O,Entity vs O Error
+paket,I-PRODUCT,O,Entity vs O Error
+rame,I-PRODUCT,O,Entity vs O Error
+&,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+masya,I-PRODUCT,O,Entity vs O Error
+Allah,I-PRODUCT,O,Entity vs O Error
+..,I-PRODUCT,O,Entity vs O Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+&,I-PROMOTION,O,Entity vs O Error
+ramah,I-PROMOTION,O,Entity vs O Error
+..,I-PROMOTION,O,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+jagaa,O,I-PROMOTION,Entity vs O Error
+menuu,O,I-PROMOTION,Entity vs O Error
+Pedesnya,B-PRODUCT,I-PRODUCT,Boundary Error
+harga,B-PRICE,I-PRICE,Boundary Error
+sangat,B-PRODUCT,I-PRODUCT,Boundary Error
+",",B-PLACE,O,Entity vs O Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+bagus,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+wajib,B-PROMOTION,O,Entity vs O Error
+balik,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+Mantap,O,B-PRODUCT,Entity vs O Error
+sekali,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+ga,O,I-PRODUCT,Entity vs O Error
+pernah,O,I-PRODUCT,Entity vs O Error
+bosan,O,I-PRODUCT,Entity vs O Error
+Cuma,B-PROMOTION,O,Entity vs O Error
+satu,I-PROMOTION,O,Entity vs O Error
+kasir,I-PROMOTION,O,Entity vs O Error
+saat,I-PROMOTION,O,Entity vs O Error
+penuh,I-PROMOTION,I-PRODUCT,Label Error
+",",B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Pas,O,I-PRODUCT,Entity vs O Error
+!,O,I-PRODUCT,Entity vs O Error
+MAKANAN,B-PRODUCT,O,Entity vs O Error
+=,I-PRODUCT,O,Entity vs O Error
+OK,I-PRODUCT,O,Entity vs O Error
+Baksonya,O,B-PRODUCT,Entity vs O Error
+baksonya,O,I-PRODUCT,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+menunya,B-PRODUCT,I-PRODUCT,Boundary Error
+karyawan,B-PROMOTION,O,Entity vs O Error
+nya,I-PROMOTION,O,Entity vs O Error
+ramah,I-PROMOTION,O,Entity vs O Error
+semua,I-PROMOTION,O,Entity vs O Error
+Ada,B-PLACE,O,Entity vs O Error
+indoor,I-PLACE,O,Entity vs O Error
+.,I-PLACE,O,Entity vs O Error
+",",B-PLACE,I-PRODUCT,Label Error
+tempatnya,I-PLACE,B-PLACE,Boundary Error
+harga,B-PRICE,I-PRICE,Boundary Error
+porsi,B-PRODUCT,B-PLACE,Label Error
+besar,I-PRODUCT,I-PLACE,Label Error
+dan,I-PRODUCT,B-PLACE,Label Error
+area,I-PRODUCT,B-PLACE,Label Error
+strategis,I-PRODUCT,I-PLACE,Label Error
+Top,B-PRODUCT,I-PRODUCT,Boundary Error
+😍,I-PRODUCT,B-PRODUCT,Boundary Error
+Baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+Kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+🤤,O,I-PRODUCT,Entity vs O Error
+iseng,B-PRODUCT,O,Entity vs O Error
+iseng,I-PRODUCT,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+pilihan,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+rekomen,B-PRODUCT,I-PRODUCT,Boundary Error
+Makanan,I-PRODUCT,B-PRODUCT,Boundary Error
+Bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+harga,B-PRICE,I-PRICE,Boundary Error
+pas,I-PRICE,I-PRODUCT,Label Error
+1,B-PLACE,I-PLACE,Boundary Error
+.,I-PLACE,O,Entity vs O Error
+2,O,I-PLACE,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+pas,O,I-PLACE,Entity vs O Error
+masuk,O,I-PLACE,Entity vs O Error
+ada,O,I-PLACE,Entity vs O Error
+.,B-PLACE,O,Entity vs O Error
+ada,I-PLACE,O,Entity vs O Error
+musholla,I-PLACE,O,Entity vs O Error
+dan,I-PLACE,O,Entity vs O Error
+7,O,I-PLACE,Entity vs O Error
+kalo,O,I-PLACE,Entity vs O Error
+UNK,O,I-PLACE,Entity vs O Error
+Salah,B-PRODUCT,I-PRODUCT,Boundary Error
+satu,I-PRODUCT,O,Entity vs O Error
+di,I-PRODUCT,O,Entity vs O Error
+DIY,I-PRODUCT,O,Entity vs O Error
+harganya,B-PRICE,I-PRICE,Boundary Error
+Dapat,B-PRODUCT,I-PRICE,Label Error
+es,I-PRODUCT,B-PRODUCT,Boundary Error
+krim,I-PRODUCT,I-PRICE,Label Error
+juga,I-PRODUCT,I-PRICE,Label Error
+tidak,O,I-PRODUCT,Entity vs O Error
+sesuai,O,I-PRODUCT,Entity vs O Error
+ekspetasi,O,I-PRODUCT,Entity vs O Error
+banget,O,I-PRODUCT,Entity vs O Error
+pas,O,I-PRODUCT,Entity vs O Error
+.pokoknya,B-PRODUCT,I-PRODUCT,Boundary Error
+ternyata,O,I-PRODUCT,Entity vs O Error
+UNK,B-PRODUCT,I-PRODUCT,Boundary Error
+kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+untuk,B-PLACE,I-PLACE,Boundary Error
+nunggu,I-PLACE,O,Entity vs O Error
+beberapa,I-PLACE,O,Entity vs O Error
+menit,I-PLACE,O,Entity vs O Error
+",",I-PLACE,O,Entity vs O Error
+padahal,I-PLACE,O,Entity vs O Error
+sebenernya,I-PLACE,O,Entity vs O Error
+bisa,I-PLACE,O,Entity vs O Error
+aja,I-PLACE,O,Entity vs O Error
+kalo,I-PLACE,O,Entity vs O Error
+di,I-PLACE,O,Entity vs O Error
+bagi,I-PLACE,O,Entity vs O Error
+section,I-PLACE,O,Entity vs O Error
+nya,I-PLACE,O,Entity vs O Error
+biar,I-PLACE,O,Entity vs O Error
+lebih,I-PLACE,O,Entity vs O Error
+rapih,I-PLACE,O,Entity vs O Error
+untuk,B-PRODUCT,O,Entity vs O Error
+makanan,I-PRODUCT,O,Entity vs O Error
+ya,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+makanan,I-PRODUCT,B-PRODUCT,Boundary Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+cukup,I-PROMOTION,O,Entity vs O Error
+baik,I-PROMOTION,O,Entity vs O Error
+suasana,B-PLACE,O,Entity vs O Error
+masih,I-PLACE,O,Entity vs O Error
+terasa,I-PLACE,O,Entity vs O Error
+vibe,I-PLACE,O,Entity vs O Error
+kampusnya,I-PLACE,O,Entity vs O Error
+.,I-PLACE,O,Entity vs O Error
+harga,I-PRODUCT,I-PRICE,Label Error
+22k,I-PRODUCT,I-PRICE,Label Error
+sebetullny,I-PRODUCT,I-PRICE,Label Error
+sdh,B-PRODUCT,I-PRICE,Label Error
+efort,I-PRODUCT,I-PRICE,Label Error
+Mie,I-PRODUCT,B-PRODUCT,Boundary Error
+ayam,I-PRODUCT,B-PRODUCT,Boundary Error
+rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+..,O,I-PRODUCT,Entity vs O Error
+Es,B-PRODUCT,I-PRODUCT,Boundary Error
+untuk,B-PLACE,O,Entity vs O Error
+atmosfir,I-PLACE,B-PLACE,Boundary Error
+.,O,I-PLACE,Entity vs O Error
+Tapi,B-PRODUCT,O,Entity vs O Error
+experience,I-PRODUCT,O,Entity vs O Error
+disini,I-PRODUCT,O,Entity vs O Error
+4,I-PRODUCT,O,Entity vs O Error
+/,I-PRODUCT,O,Entity vs O Error
+5,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+worth,I-PRODUCT,O,Entity vs O Error
+it,I-PRODUCT,O,Entity vs O Error
+buat,I-PRODUCT,O,Entity vs O Error
+sesekali,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+disini,I-PRODUCT,O,Entity vs O Error
+Warung,B-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+sepi,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+gak,I-PROMOTION,O,Entity vs O Error
+terlalu,I-PROMOTION,O,Entity vs O Error
+rame,I-PROMOTION,O,Entity vs O Error
+tapi,I-PROMOTION,O,Entity vs O Error
+pelayanannya,I-PROMOTION,O,Entity vs O Error
+lamaaaaaaa,I-PROMOTION,O,Entity vs O Error
+banget,I-PROMOTION,O,Entity vs O Error
+njiir,I-PROMOTION,O,Entity vs O Error
+nungguin,B-PROMOTION,O,Entity vs O Error
+bakso,I-PROMOTION,O,Entity vs O Error
+seporsi,I-PROMOTION,O,Entity vs O Error
+udah,I-PROMOTION,O,Entity vs O Error
+kayak,I-PROMOTION,O,Entity vs O Error
+nungguin,I-PROMOTION,O,Entity vs O Error
+kuota,I-PROMOTION,O,Entity vs O Error
+haji,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Setengah,B-PROMOTION,O,Entity vs O Error
+jam,I-PROMOTION,O,Entity vs O Error
+lebih,I-PROMOTION,O,Entity vs O Error
+gila,I-PROMOTION,O,Entity vs O Error
+gak,I-PROMOTION,O,Entity vs O Error
+tuh,I-PROMOTION,O,Entity vs O Error
+Waktu,B-PROMOTION,O,Entity vs O Error
+di,I-PROMOTION,O,Entity vs O Error
+Jogja,I-PROMOTION,O,Entity vs O Error
+yang,I-PROMOTION,O,Entity vs O Error
+terbatas,I-PROMOTION,O,Entity vs O Error
+habis,I-PROMOTION,O,Entity vs O Error
+cuma,I-PROMOTION,O,Entity vs O Error
+buat,I-PROMOTION,O,Entity vs O Error
+nungguin,I-PROMOTION,O,Entity vs O Error
+bakso,I-PROMOTION,O,Entity vs O Error
+seporsi,I-PROMOTION,O,Entity vs O Error
+...,I-PROMOTION,O,Entity vs O Error
+Gak,B-PROMOTION,O,Entity vs O Error
+bakal,I-PROMOTION,O,Entity vs O Error
+kesini,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+Kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+.,B-PLACE,I-PRODUCT,Label Error
+Kalo,I-PLACE,I-PRODUCT,Label Error
+mau,I-PLACE,I-PRODUCT,Label Error
+pesen,I-PLACE,I-PRODUCT,Label Error
+saran,I-PLACE,I-PRODUCT,Label Error
+jangan,I-PLACE,I-PRODUCT,Label Error
+pas,I-PLACE,I-PRODUCT,Label Error
+makan,I-PLACE,I-PRODUCT,Label Error
+siang,I-PLACE,O,Entity vs O Error
+",",I-PLACE,O,Entity vs O Error
+pooool,I-PLACE,I-PRODUCT,Label Error
+.,I-PLACE,O,Entity vs O Error
+UNK,B-PLACE,I-PRODUCT,Label Error
+enak,I-PLACE,I-PRODUCT,Label Error
+Pertama,B-PRODUCT,O,Entity vs O Error
+kali,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+disini,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+bolak,I-PRODUCT,O,Entity vs O Error
+balik,I-PRODUCT,O,Entity vs O Error
+cm,I-PRODUCT,O,Entity vs O Error
+lewat,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+penasaran,I-PRODUCT,O,Entity vs O Error
+krn,I-PRODUCT,O,Entity vs O Error
+rame,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Makanan,I-PRODUCT,O,Entity vs O Error
+harga,B-PRICE,I-PRICE,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+Mohon,B-PLACE,O,Entity vs O Error
+tingkatkan,I-PLACE,O,Entity vs O Error
+kebersihan,I-PLACE,O,Entity vs O Error
+saat,I-PLACE,O,Entity vs O Error
+membersihkan,I-PLACE,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+ada,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+menurutku,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+untuk,B-PRICE,I-PRODUCT,Label Error
+4,I-PRICE,O,Entity vs O Error
+bakso,I-PRICE,O,Entity vs O Error
+pangsit,B-PRODUCT,I-PRODUCT,Boundary Error
+dijual,I-PRODUCT,O,Entity vs O Error
+terpisah,I-PRODUCT,O,Entity vs O Error
+enakk,B-PRODUCT,I-PRODUCT,Boundary Error
+cepat,I-PROMOTION,I-PRICE,Label Error
+harga,B-PRICE,I-PRICE,Boundary Error
+mantab,I-PRODUCT,B-PRODUCT,Boundary Error
+rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+buat,I-PRODUCT,O,Entity vs O Error
+kalian,I-PRODUCT,O,Entity vs O Error
+pencinta,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+UNK,B-PLACE,O,Entity vs O Error
+untuk,I-PLACE,O,Entity vs O Error
+pelayanan,I-PLACE,O,Entity vs O Error
+.,I-PLACE,O,Entity vs O Error
+Mohon,I-PLACE,O,Entity vs O Error
+tingkatkan,I-PLACE,O,Entity vs O Error
+kebersihan,I-PLACE,O,Entity vs O Error
+saat,I-PLACE,O,Entity vs O Error
+membersihkan,I-PLACE,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+cukup,I-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+walaupun,I-PROMOTION,O,Entity vs O Error
+ramai,I-PROMOTION,O,Entity vs O Error
+pengunjunh,I-PROMOTION,O,Entity vs O Error
+Pelayanan,B-PROMOTION,O,Entity vs O Error
+nyaman,I-PROMOTION,I-PLACE,Label Error
+jangan,B-PRODUCT,O,Entity vs O Error
+lupa,I-PRODUCT,O,Entity vs O Error
+pesen,I-PRODUCT,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+apalagi,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+untuk,B-PRODUCT,I-PRODUCT,Boundary Error
+Sangat,B-PRODUCT,I-PRODUCT,Boundary Error
+recommended,I-PRODUCT,O,Entity vs O Error
+buat,I-PRODUCT,O,Entity vs O Error
+para,I-PRODUCT,O,Entity vs O Error
+pecinta,I-PRODUCT,O,Entity vs O Error
+worth,I-PRODUCT,B-PRODUCT,Boundary Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+Udah,B-PRODUCT,O,Entity vs O Error
+beberapa,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+siang,I-PRODUCT,O,Entity vs O Error
+disini,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+harga,B-PRICE,I-PROMOTION,Label Error
+affordable,I-PRICE,O,Entity vs O Error
+",",I-PRICE,O,Entity vs O Error
+UNK,I-PRICE,O,Entity vs O Error
+HARUS,O,I-PROMOTION,Entity vs O Error
+UNK,O,I-PROMOTION,Entity vs O Error
+UNK,O,I-PROMOTION,Entity vs O Error
+Saran,B-PLACE,O,Entity vs O Error
+dari,I-PLACE,O,Entity vs O Error
+kami,I-PLACE,O,Entity vs O Error
+",",I-PLACE,O,Entity vs O Error
+Tolong,I-PLACE,O,Entity vs O Error
+genset,I-PLACE,O,Entity vs O Error
+jangan,I-PLACE,O,Entity vs O Error
+di,I-PLACE,O,Entity vs O Error
+taro,I-PLACE,I-PROMOTION,Label Error
+di,I-PLACE,O,Entity vs O Error
+area,I-PLACE,O,Entity vs O Error
+makan,I-PLACE,O,Entity vs O Error
+.,I-PLACE,O,Entity vs O Error
+Karna,I-PLACE,I-PROMOTION,Label Error
+bising,I-PLACE,I-PROMOTION,Label Error
+sekali,I-PLACE,O,Entity vs O Error
+mengganggu,I-PLACE,I-PROMOTION,Label Error
+suana,I-PLACE,O,Entity vs O Error
+makan,I-PLACE,O,Entity vs O Error
+.,I-PLACE,O,Entity vs O Error
+Overall,O,B-PRODUCT,Entity vs O Error
+mantab,O,I-PRODUCT,Entity vs O Error
+Bakso,O,B-PRODUCT,Entity vs O Error
+keju,O,I-PRODUCT,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+bakarnya,O,I-PRODUCT,Entity vs O Error
+enak,O,I-PRODUCT,Entity vs O Error
+banget,O,I-PRODUCT,Entity vs O Error
+jujur,B-PRODUCT,O,Entity vs O Error
+ga,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+pas,O,I-PRODUCT,Entity vs O Error
+UNK,B-PRODUCT,I-PRODUCT,Boundary Error
+uda,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+mie,B-PRODUCT,I-PRODUCT,Boundary Error
+uda,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+bgt,I-PRODUCT,O,Entity vs O Error
+UNK,B-PRICE,O,Entity vs O Error
+UNK,I-PRICE,O,Entity vs O Error
+15,I-PRICE,O,Entity vs O Error
+-,I-PRICE,O,Entity vs O Error
+30,I-PRICE,O,Entity vs O Error
+K,I-PRICE,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+tapi,O,I-PRODUCT,Entity vs O Error
+kurang,B-PRODUCT,I-PRODUCT,Boundary Error
+ ,O,I-PRODUCT,Entity vs O Error
+menurut,O,I-PRODUCT,Entity vs O Error
+lidah,O,I-PRODUCT,Entity vs O Error
+temenku,O,I-PRODUCT,Entity vs O Error
+orang,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+mie,B-PRODUCT,I-PRODUCT,Boundary Error
+(,O,I-PRODUCT,Entity vs O Error
+bukan,O,I-PRODUCT,Entity vs O Error
+ayam,O,I-PRODUCT,Entity vs O Error
+yg,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+sampe,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+medok,O,I-PRODUCT,Entity vs O Error
+gitu,O,I-PRODUCT,Entity vs O Error
+),O,I-PRODUCT,Entity vs O Error
+tapi,O,I-PRODUCT,Entity vs O Error
+lebih,O,I-PRODUCT,Entity vs O Error
+ke,O,I-PRODUCT,Entity vs O Error
+potongan,B-PRODUCT,I-PRODUCT,Boundary Error
+ ,O,I-PRODUCT,Entity vs O Error
+buat,B-PRODUCT,I-PRODUCT,Boundary Error
+menunya,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+kalau,B-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+ada,B-PRODUCT,I-PRODUCT,Boundary Error
+Pelayanan,B-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+lembut,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+nampollllll,B-PRODUCT,I-PRODUCT,Boundary Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+Pedesnya,B-PRODUCT,I-PRODUCT,Boundary Error
+pelayanannya,B-PROMOTION,O,Entity vs O Error
+ramah,I-PROMOTION,O,Entity vs O Error
+bangettt,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+harga,B-PRICE,I-PRICE,Boundary Error
+1,O,I-PLACE,Entity vs O Error
+.,B-PLACE,O,Entity vs O Error
+2,O,I-PLACE,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+pas,B-PROMOTION,I-PLACE,Label Error
+masuk,I-PROMOTION,I-PLACE,Label Error
+sudah,I-PROMOTION,O,Entity vs O Error
+ada,I-PROMOTION,I-PLACE,Label Error
+UNK,I-PROMOTION,O,Entity vs O Error
+dari,I-PROMOTION,O,Entity vs O Error
+staff,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+langsung,I-PROMOTION,O,Entity vs O Error
+dikasih,I-PROMOTION,O,Entity vs O Error
+menu,I-PROMOTION,O,Entity vs O Error
+yg,I-PROMOTION,O,Entity vs O Error
+mau,I-PROMOTION,O,Entity vs O Error
+dipesan,I-PROMOTION,O,Entity vs O Error
+(,I-PROMOTION,O,Entity vs O Error
+cari,I-PROMOTION,O,Entity vs O Error
+tmpt,I-PROMOTION,O,Entity vs O Error
+makan,I-PROMOTION,O,Entity vs O Error
+sendiri,I-PROMOTION,O,Entity vs O Error
+ya,I-PROMOTION,O,Entity vs O Error
+),I-PROMOTION,O,Entity vs O Error
+pesanan,B-PROMOTION,O,Entity vs O Error
+dateng,I-PROMOTION,O,Entity vs O Error
+ngga,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+10,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+kaya,I-PROMOTION,O,Entity vs O Error
+nya,I-PROMOTION,O,Entity vs O Error
+semua,B-PROMOTION,O,Entity vs O Error
+staff,I-PROMOTION,O,Entity vs O Error
+ramah,I-PROMOTION,O,Entity vs O Error
+tp,I-PROMOTION,O,Entity vs O Error
+agak,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+yaa,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+karna,I-PROMOTION,O,Entity vs O Error
+kebanyakan,I-PROMOTION,O,Entity vs O Error
+staff,I-PROMOTION,O,Entity vs O Error
+nya,I-PROMOTION,O,Entity vs O Error
+UNK,I-PROMOTION,O,Entity vs O Error
+ada,B-PLACE,O,Entity vs O Error
+musholla,I-PLACE,O,Entity vs O Error
+dan,I-PLACE,O,Entity vs O Error
+7,O,I-PLACE,Entity vs O Error
+kalo,B-PRODUCT,I-PLACE,Label Error
+UNK,I-PRODUCT,I-PLACE,Label Error
+it,I-PRODUCT,B-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Es,B-PRODUCT,I-PRODUCT,Boundary Error
+menu,I-PRODUCT,B-PRODUCT,Boundary Error
+Udah,B-PRODUCT,O,Entity vs O Error
+dua,I-PRODUCT,O,Entity vs O Error
+di,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+😭,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+😭,I-PRODUCT,O,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+Makanan,B-PRODUCT,O,Entity vs O Error
+harga,B-PRICE,I-PRICE,Boundary Error
+kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+..,O,I-PRODUCT,Entity vs O Error
+🏼,I-PLACE,I-PRODUCT,Label Error
+bakso,I-PRICE,B-PRODUCT,Label Error
+ya,I-PRICE,O,Entity vs O Error
+",",I-PRICE,O,Entity vs O Error
+rate,I-PRICE,O,Entity vs O Error
+50,I-PRICE,O,Entity vs O Error
+rb,I-PRICE,B-PRODUCT,Label Error
+ke,I-PRICE,O,Entity vs O Error
+ataas,I-PRICE,I-PLACE,Label Error
+Yg,O,I-PLACE,Entity vs O Error
+beli,O,I-PLACE,Entity vs O Error
+juga,O,I-PLACE,Entity vs O Error
+banyak,O,I-PLACE,Entity vs O Error
+pada,O,I-PLACE,Entity vs O Error
+pake,O,I-PLACE,Entity vs O Error
+mobil,O,I-PLACE,Entity vs O Error
+",",O,I-PLACE,Entity vs O Error
+tp,B-PLACE,I-PLACE,Boundary Error
+TOILET,B-PLACE,I-PLACE,Boundary Error
+.,I-PLACE,O,Entity vs O Error
+Bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+Dan,O,I-PRODUCT,Entity vs O Error
+banyak,B-PRODUCT,I-PRODUCT,Boundary Error
+dari,O,I-PRODUCT,Entity vs O Error
+yg,B-PRICE,I-PRODUCT,Label Error
+mahal,I-PRICE,I-PRODUCT,Label Error
+sampe,I-PRICE,I-PRODUCT,Label Error
+mahal,I-PRICE,I-PRODUCT,Label Error
+bgt,I-PRICE,I-PRODUCT,Label Error
+.,I-PRICE,O,Entity vs O Error
+Tp,B-PLACE,O,Entity vs O Error
+Semua,O,B-PRODUCT,Entity vs O Error
+oke,O,I-PRODUCT,Entity vs O Error
+👌,O,I-PRODUCT,Entity vs O Error
+cuman,O,I-PLACE,Entity vs O Error
+ga,O,I-PLACE,Entity vs O Error
+paham,O,I-PLACE,Entity vs O Error
+ini,O,I-PLACE,Entity vs O Error
+musholanya,O,I-PLACE,Entity vs O Error
+apa,O,I-PLACE,Entity vs O Error
+plus,O,I-PLACE,Entity vs O Error
+tempat,O,I-PLACE,Entity vs O Error
+makan,O,I-PLACE,Entity vs O Error
+dan,O,I-PLACE,Entity vs O Error
+ngasonya,O,I-PLACE,Entity vs O Error
+pegawai,O,I-PLACE,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+murah,B-PRICE,I-PRODUCT,Label Error
+lagi,I-PRICE,I-PRODUCT,Label Error
+Penggemar,O,B-PRODUCT,Entity vs O Error
+baso,O,I-PRODUCT,Entity vs O Error
+musti,O,I-PRODUCT,Entity vs O Error
+ke,O,I-PRODUCT,Entity vs O Error
+sini,O,I-PRODUCT,Entity vs O Error
+deh,O,I-PRODUCT,Entity vs O Error
+Selain,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+.,B-PLACE,O,Entity vs O Error
+Tempatnya,I-PLACE,B-PLACE,Boundary Error
+.,O,I-PLACE,Entity vs O Error
+Rame,B-PLACE,I-PLACE,Boundary Error
+kalau,I-PLACE,O,Entity vs O Error
+jam,I-PLACE,O,Entity vs O Error
+maksi,I-PLACE,O,Entity vs O Error
+pelayanannya,B-PROMOTION,O,Entity vs O Error
+juga,I-PROMOTION,O,Entity vs O Error
+rapi,I-PROMOTION,O,Entity vs O Error
+dan,I-PROMOTION,O,Entity vs O Error
+bersih,I-PROMOTION,I-PLACE,Label Error
+",",I-PROMOTION,O,Entity vs O Error
+tidak,I-PROMOTION,O,Entity vs O Error
+cepat,I-PROMOTION,O,Entity vs O Error
+banget,I-PROMOTION,O,Entity vs O Error
+sih,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+karena,I-PROMOTION,O,Entity vs O Error
+memang,I-PROMOTION,O,Entity vs O Error
+rame,I-PROMOTION,O,Entity vs O Error
+Harganya,B-PRICE,I-PROMOTION,Label Error
+masuk,I-PRICE,O,Entity vs O Error
+akal,I-PRICE,I-PROMOTION,Label Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+langganan,B-PROMOTION,O,Entity vs O Error
+tiap,I-PROMOTION,I-PRODUCT,Label Error
+hari,I-PROMOTION,O,Entity vs O Error
+baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+dan,O,I-PRODUCT,Entity vs O Error
+mantapp,O,I-PRODUCT,Entity vs O Error
+Baksonya,I-PRODUCT,B-PRODUCT,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+harga,B-PRICE,I-PLACE,Label Error
+masih,I-PRICE,I-PLACE,Label Error
+.,I-PRICE,I-PLACE,Label Error
+Recommended,O,I-PLACE,Entity vs O Error
+buat,O,I-PLACE,Entity vs O Error
+!,O,I-PROMOTION,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+semua,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+bersih,B-PLACE,I-PRODUCT,Label Error
+enak2,B-PRODUCT,I-PRODUCT,Boundary Error
+pelayanan,B-PROMOTION,O,Entity vs O Error
+ramahh,I-PROMOTION,O,Entity vs O Error
+Mantappp,B-PRODUCT,O,Entity vs O Error
+di,O,I-PRODUCT,Entity vs O Error
+kuah,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+kalau,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+pokoknya,B-PRODUCT,I-PRODUCT,Boundary Error
+pertama,O,I-PRODUCT,Entity vs O Error
+kali,O,I-PRODUCT,Entity vs O Error
+makan,O,I-PRODUCT,Entity vs O Error
+disini,O,I-PRODUCT,Entity vs O Error
+pesen,O,I-PRODUCT,Entity vs O Error
+menu,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+",",B-PRODUCT,I-PRODUCT,Boundary Error
+biasanya,O,I-PRODUCT,Entity vs O Error
+pas,O,I-PRODUCT,Entity vs O Error
+dibuka,O,I-PRODUCT,Entity vs O Error
+isinya,O,I-PRODUCT,Entity vs O Error
+sambal,O,I-PRODUCT,Entity vs O Error
+..,O,I-PRODUCT,Entity vs O Error
+kalo,O,I-PRODUCT,Entity vs O Error
+yg,O,I-PRODUCT,Entity vs O Error
+ini,O,I-PRODUCT,Entity vs O Error
+memang,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+mantapp,B-PRODUCT,I-PRODUCT,Boundary Error
+tapi,O,I-PRODUCT,Entity vs O Error
+jg,O,I-PRODUCT,Entity vs O Error
+ngga,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+untuk,B-PRODUCT,I-PRODUCT,Boundary Error
+jam,I-PRODUCT,O,Entity vs O Error
+blm,B-PRODUCT,I-PRODUCT,Boundary Error
+tp,O,I-PRODUCT,Entity vs O Error
+ini,O,I-PRODUCT,Entity vs O Error
+aja,O,I-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+apalagi,B-PRODUCT,I-PRODUCT,Boundary Error
+Tempat,B-PLACE,B-PRODUCT,Label Error
+bakso,I-PLACE,B-PRODUCT,Label Error
+rekomended,I-PLACE,I-PRODUCT,Label Error
+..,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+tempat,B-PLACE,I-PLACE,Boundary Error
+🤩,I-PLACE,I-PRODUCT,Label Error
+Cita,B-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+berbeda,I-PRODUCT,O,Entity vs O Error
+dengan,I-PRODUCT,O,Entity vs O Error
+yang,I-PRODUCT,O,Entity vs O Error
+lain,I-PRODUCT,O,Entity vs O Error
+Bintang,B-PRODUCT,O,Entity vs O Error
+5,I-PRODUCT,O,Entity vs O Error
+buat,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+pajero,I-PRODUCT,O,Entity vs O Error
+sini,I-PRODUCT,O,Entity vs O Error
+..,I-PRODUCT,O,Entity vs O Error
+dan,O,I-PRODUCT,Entity vs O Error
+Rekomend,B-PRODUCT,I-PRODUCT,Boundary Error
+tempat,B-PLACE,I-PLACE,Boundary Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+Bismillahirohmanirohim,O,B-PRODUCT,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+pas,B-PRODUCT,I-PRODUCT,Boundary Error
+ketinggian,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+nunggu,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+bakarnya,I-PRODUCT,O,Entity vs O Error
+ ,I-PRODUCT,O,Entity vs O Error
+datang,I-PRODUCT,O,Entity vs O Error
+40,I-PRODUCT,O,Entity vs O Error
+menit,I-PRODUCT,O,Entity vs O Error
+harus,B-PROMOTION,O,Entity vs O Error
+ditanyain,I-PROMOTION,O,Entity vs O Error
+ke,I-PROMOTION,O,Entity vs O Error
+bagian,I-PROMOTION,O,Entity vs O Error
+pemesanan,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+terus,I-PROMOTION,O,Entity vs O Error
+disuruh,I-PROMOTION,O,Entity vs O Error
+nunggu,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+5,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+pas,B-PRODUCT,O,Entity vs O Error
+dateng,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+bakarnya,I-PRODUCT,O,Entity vs O Error
+gak,I-PRODUCT,O,Entity vs O Error
+panas,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+harus,I-PRODUCT,O,Entity vs O Error
+minta,I-PRODUCT,O,Entity vs O Error
+diangetin,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+ternyata,I-PRODUCT,O,Entity vs O Error
+datengnya,I-PRODUCT,O,Entity vs O Error
+doang,I-PRODUCT,O,Entity vs O Error
+rasa,B-PRODUCT,I-PRODUCT,Boundary Error
+standard,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+selalu,O,I-PRODUCT,Entity vs O Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+buat,I-PRODUCT,O,Entity vs O Error
+dateng,I-PRODUCT,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+tapi,O,I-PRODUCT,Entity vs O Error
+rasa,I-PRODUCT,B-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+namun,B-PLACE,I-PRODUCT,Label Error
+perlu,I-PLACE,I-PRODUCT,Label Error
+diperhatikan,I-PLACE,I-PRODUCT,Label Error
+lagi,I-PLACE,O,Entity vs O Error
+untuk,B-PRICE,I-PRICE,Boundary Error
+karna,I-PRICE,I-PLACE,Label Error
+porsi,I-PRICE,B-PRODUCT,Label Error
+nya,I-PRICE,O,Entity vs O Error
+juga,I-PRICE,O,Entity vs O Error
+biasa,I-PRICE,O,Entity vs O Error
+saja,I-PRICE,O,Entity vs O Error
+..,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Sy,I-PRODUCT,O,Entity vs O Error
+memesan,I-PRODUCT,O,Entity vs O Error
+bakso,I-PRODUCT,O,Entity vs O Error
+iga,I-PRODUCT,O,Entity vs O Error
+",",I-PRODUCT,O,Entity vs O Error
+sengaja,I-PRODUCT,O,Entity vs O Error
+karena,I-PRODUCT,O,Entity vs O Error
+mau,I-PRODUCT,O,Entity vs O Error
+mencoba,I-PRODUCT,O,Entity vs O Error
+iga,I-PRODUCT,O,Entity vs O Error
+nya,I-PRODUCT,O,Entity vs O Error
+&,I-PRODUCT,O,Entity vs O Error
+baso,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+Orderan,B-PROMOTION,O,Entity vs O Error
+yg,I-PROMOTION,O,Entity vs O Error
+sumsum,I-PROMOTION,O,Entity vs O Error
+bakar,I-PROMOTION,O,Entity vs O Error
+nunggu,I-PROMOTION,O,Entity vs O Error
+sampai,I-PROMOTION,O,Entity vs O Error
+45,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+seharusnya,I-PROMOTION,O,Entity vs O Error
+di,I-PROMOTION,O,Entity vs O Error
+kasih,I-PROMOTION,O,Entity vs O Error
+tau,I-PROMOTION,O,Entity vs O Error
+diawal,I-PROMOTION,O,Entity vs O Error
+sama,I-PROMOTION,O,Entity vs O Error
+kasir,I-PROMOTION,O,Entity vs O Error
+biar,I-PROMOTION,O,Entity vs O Error
+bisa,I-PROMOTION,O,Entity vs O Error
+espek,I-PROMOTION,O,Entity vs O Error
+nunggu,I-PROMOTION,O,Entity vs O Error
+lama,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+😅,I-PRODUCT,O,Entity vs O Error
+Review,B-PRODUCT,O,Entity vs O Error
+jujur,I-PRODUCT,O,Entity vs O Error
+Pertama,I-PRODUCT,O,Entity vs O Error
+kali,I-PRODUCT,O,Entity vs O Error
+pesan,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,B-PRODUCT,Boundary Error
+Rasanya,I-PRODUCT,B-PRODUCT,Boundary Error
+Bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+kasih,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+Semangat,I-PRODUCT,O,Entity vs O Error
+cocok,B-PRODUCT,I-PRODUCT,Boundary Error
+nih,I-PRODUCT,O,Entity vs O Error
+enak,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+berasa,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+kaldunya,B-PRODUCT,I-PRODUCT,Boundary Error
+...,O,I-PRODUCT,Entity vs O Error
+the,O,I-PRODUCT,Entity vs O Error
+best,O,I-PRODUCT,Entity vs O Error
+sih,O,I-PRODUCT,Entity vs O Error
+so,O,I-PRODUCT,Entity vs O Error
+far,O,I-PRODUCT,Entity vs O Error
+buat,O,I-PRODUCT,Entity vs O Error
+akunya,O,I-PRODUCT,Entity vs O Error
+just,B-PROMOTION,O,Entity vs O Error
+info,I-PROMOTION,O,Entity vs O Error
+klo,I-PROMOTION,O,Entity vs O Error
+hari,I-PROMOTION,O,Entity vs O Error
+Jumat,I-PROMOTION,O,Entity vs O Error
+mrk,I-PROMOTION,O,Entity vs O Error
+tidak,I-PROMOTION,O,Entity vs O Error
+melayani,I-PROMOTION,O,Entity vs O Error
+pesanan,I-PROMOTION,O,Entity vs O Error
+pas,I-PROMOTION,O,Entity vs O Error
+jam,I-PROMOTION,O,Entity vs O Error
+sholat,I-PROMOTION,O,Entity vs O Error
+Jumat,I-PROMOTION,O,Entity vs O Error
+..,I-PROMOTION,O,Entity vs O Error
+bagus,I-PROMOTION,O,Entity vs O Error
+nih,I-PROMOTION,O,Entity vs O Error
+",",I-PROMOTION,O,Entity vs O Error
+ibadah,I-PROMOTION,O,Entity vs O Error
+memang,I-PROMOTION,O,Entity vs O Error
+hrs,I-PROMOTION,O,Entity vs O Error
+di,I-PROMOTION,O,Entity vs O Error
+utamakan,I-PROMOTION,O,Entity vs O Error
+1,B-PRODUCT,O,Entity vs O Error
+porsi,I-PRODUCT,O,Entity vs O Error
+poolll,I-PRODUCT,O,Entity vs O Error
+",",O,I-PRODUCT,Entity vs O Error
+ndaging,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+kuahnya,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+banyak,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+harganya,B-PRICE,I-PRICE,Boundary Error
+juga,I-PRICE,O,Entity vs O Error
+bermacam,I-PRICE,O,Entity vs O Error
+macam,I-PRICE,O,Entity vs O Error
+rekomendasi,I-PRODUCT,O,Entity vs O Error
+dan,I-PRODUCT,O,Entity vs O Error
+harganya,I-PRODUCT,I-PRICE,Label Error
+affordable,I-PRODUCT,I-PRICE,Label Error
+UNK,I-PRODUCT,I-PRICE,Label Error
+UNK,I-PRODUCT,I-PRICE,Label Error
+UNK,I-PRODUCT,I-PROMOTION,Label Error
+Mantappp,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+UNK,B-PRODUCT,I-PRODUCT,Boundary Error
+.,I-PRODUCT,O,Entity vs O Error
+Wajib,I-PRODUCT,O,Entity vs O Error
+coba,I-PRODUCT,O,Entity vs O Error
+sih,I-PRODUCT,O,Entity vs O Error
+kalau,I-PRODUCT,O,Entity vs O Error
+pas,I-PRODUCT,O,Entity vs O Error
+UNK,I-PRODUCT,O,Entity vs O Error
+kampus,I-PRODUCT,O,Entity vs O Error
+UNY,I-PRODUCT,O,Entity vs O Error
+.,I-PRODUCT,O,Entity vs O Error
+aku,O,I-PRODUCT,Entity vs O Error
+UNK,O,I-PRODUCT,Entity vs O Error
+bakso,O,I-PRODUCT,Entity vs O Error
+Puas,B-PRODUCT,I-PRODUCT,Boundary Error
+dan,I-PRODUCT,O,Entity vs O Error
+alhamdulillah,I-PRODUCT,O,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+Parkir,B-PLACE,I-PLACE,Boundary Error
+.,O,I-PLACE,Entity vs O Error
+UNK,O,I-PLACE,Entity vs O Error
+jelas,O,I-PLACE,Entity vs O Error
+.,O,I-PLACE,Entity vs O Error
+selalu,B-PRODUCT,O,Entity vs O Error
+repeat,I-PRODUCT,O,Entity vs O Error
+order,I-PRODUCT,O,Entity vs O Error
+kesini,I-PRODUCT,O,Entity vs O Error
+kalo,I-PRODUCT,O,Entity vs O Error
+makan,I-PRODUCT,O,Entity vs O Error
+10,O,I-PRODUCT,Entity vs O Error
+/,O,I-PRODUCT,Entity vs O Error
+10,O,I-PRODUCT,Entity vs O Error
+buat,O,I-PRODUCT,Entity vs O Error
+servicenya,O,I-PRODUCT,Entity vs O Error
+menunya,B-PRODUCT,I-PRODUCT,Boundary Error
+Uda,B-PRODUCT,I-PRODUCT,Boundary Error
+",",O,I-PRODUCT,Entity vs O Error
+",",O,I-PLACE,Entity vs O Error
+harga,B-PRICE,I-PRICE,Boundary Error
+nya,I-PRICE,I-PLACE,Label Error
+cocok,I-PRICE,I-PLACE,Label Error
+sesuai,I-PRICE,I-PLACE,Label Error
+rasa,I-PRICE,B-PRODUCT,Label Error
+.,I-PRICE,I-PLACE,Label Error
+Mantap,B-PRODUCT,I-PRODUCT,Boundary Error
+.,O,I-PRODUCT,Entity vs O Error
+Harga,B-PRICE,I-PRICE,Boundary Error
+murah,I-PRICE,B-PRODUCT,Label Error
+.,I-PRODUCT,O,Entity vs O Error
+nyaman,I-PRODUCT,B-PLACE,Label Error
+tempatnya,I-PRODUCT,I-PLACE,Label Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+bakso,B-PRODUCT,I-PRODUCT,Boundary Error
+tambahan,B-PRODUCT,I-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+rasa,O,B-PRODUCT,Entity vs O Error
+Pesen,B-PROMOTION,O,Entity vs O Error
+mie,I-PROMOTION,O,Entity vs O Error
+ayam,I-PROMOTION,O,Entity vs O Error
+original,I-PROMOTION,O,Entity vs O Error
+doang,I-PROMOTION,O,Entity vs O Error
+padahal,I-PROMOTION,O,Entity vs O Error
+1,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Suasana,I-PROMOTION,O,Entity vs O Error
+warung,I-PROMOTION,O,Entity vs O Error
+jg,I-PROMOTION,O,Entity vs O Error
+gak,I-PROMOTION,O,Entity vs O Error
+terlalu,I-PROMOTION,O,Entity vs O Error
+ramai,I-PROMOTION,O,Entity vs O Error
+waktu,I-PROMOTION,O,Entity vs O Error
+itu,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
+Tapi,I-PROMOTION,O,Entity vs O Error
+gak,I-PROMOTION,O,Entity vs O Error
+datang²,I-PROMOTION,O,Entity vs O Error
+makanan,I-PROMOTION,O,Entity vs O Error
+sampe,I-PROMOTION,O,Entity vs O Error
+40,I-PROMOTION,O,Entity vs O Error
+menit,I-PROMOTION,O,Entity vs O Error
+😭,I-PROMOTION,O,Entity vs O Error
+😭,I-PROMOTION,O,Entity vs O Error
+jadi,I-PROMOTION,O,Entity vs O Error
+mikir,I-PROMOTION,O,Entity vs O Error
+mau,I-PROMOTION,O,Entity vs O Error
+ke,I-PROMOTION,O,Entity vs O Error
+sini,I-PROMOTION,O,Entity vs O Error
+lagi,I-PROMOTION,O,Entity vs O Error
+Bakso,I-PRODUCT,B-PRODUCT,Boundary Error
+",",I-PRODUCT,O,Entity vs O Error
+tempat,B-PLACE,I-PLACE,Boundary Error
+diruangan,B-PLACE,I-PLACE,Boundary Error
+kesini,B-PLACE,I-PLACE,Boundary Error
+...,O,I-PLACE,Entity vs O Error
+penyajiannya,B-PROMOTION,I-PLACE,Label Error
+lama,I-PROMOTION,O,Entity vs O Error
+.,I-PROMOTION,O,Entity vs O Error
