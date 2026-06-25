@@ -406,5 +406,3 @@ Beberapa keterbatasan proyek:
 6. Post-processing hanya menangani beberapa pola kesalahan umum.
 
 ---
-[Isi link video demo]
-```
